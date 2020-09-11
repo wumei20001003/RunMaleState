@@ -1,0 +1,7 @@
+{
+  "baseUrl": "",
+  "directory": "http://124.42.42.252:9099/xmgl_hz/api/projectService/static/",
+  "serverUrl":{"USER_URL":"cloudApi","MENU_PROJECT_URL":"xmgl_hz","MENU_SPONGE_CITY_URL":"","MENU_WATER_ENVIRONMENT_URL":""},
+  "serverKey":{"MENU_PROJECT_KEY":"MENU_PROJECT_KEY","MENU_SPONGE_CITY_KEY":"MENU_SPONGE_CITY_KEY"
+  ,"MENU_WATER_ENVIRONMENT_KEY":"MENU_WATER_ENVIRONMENT_KEY"}
+}
